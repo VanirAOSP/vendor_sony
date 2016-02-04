@@ -141,6 +141,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/sirius/proprietary/etc/tfa98xx/top.speaker:system/etc/tfa98xx/top.speaker \
     vendor/sony/sirius/proprietary/usr/idc/max1187x_touchscreen_0.idc:system/usr/idc/max1187x_touchscreen_0.idc \
     vendor/sony/sirius/proprietary/vendor/firmware/fw_bcmdhd.bin:system/vendor/firmware/fw_bcmdhd.bin \
+<<<<<<< HEAD
     vendor/sony/sirius/proprietary/vendor/firmware/fw_bcmdhd_apsta.bin:system/vendor/firmware/fw_bcmdhd_apsta.bin \
     vendor/sony/sirius/proprietary/vendor/lib/libactuator_bu64296gwx.so:system/vendor/lib/libactuator_bu64296gwx.so \
     vendor/sony/sirius/proprietary/vendor/lib/libactuator_bu64296gwx_camcorder.so:system/vendor/lib/libactuator_bu64296gwx_camcorder.so \
@@ -179,3 +180,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/sirius/proprietary/vendor/lib/libchromatix_imx200_video_hdr.so:system/vendor/lib/libchromatix_imx200_video_hdr.so \
     vendor/sony/sirius/proprietary/vendor/lib/libmmcamera_imx132.so:system/vendor/lib/libmmcamera_imx132.so \
     vendor/sony/sirius/proprietary/vendor/lib/libmmcamera_imx200.so:system/vendor/lib/libmmcamera_imx200.so
+=======
+    vendor/sony/sirius/proprietary/vendor/firmware/fw_bcmdhd_apsta.bin:system/vendor/firmware/fw_bcmdhd_apsta.bin
+>>>>>>> 9fb569d... 8974: Switch to AOSP proprietary files
