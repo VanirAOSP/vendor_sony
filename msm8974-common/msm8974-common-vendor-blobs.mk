@@ -64,6 +64,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/msm8974-common/proprietary/vendor/lib/libacdbmapper.so:system/vendor/lib/libacdbmapper.so \
     vendor/sony/msm8974-common/proprietary/vendor/lib/libacdbrtac.so:system/vendor/lib/libacdbrtac.so \
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     vendor/sony/msm8974-common/proprietary/vendor/lib/libactuator_bu64291gwz.so:system/vendor/lib/libactuator_bu64291gwz.so \
     vendor/sony/msm8974-common/proprietary/vendor/lib/libactuator_bu64291gwz_camcorder.so:system/vendor/lib/libactuator_bu64291gwz_camcorder.so \
@@ -75,6 +76,8 @@ PRODUCT_COPY_FILES += \
     vendor/sony/msm8974-common/proprietary/vendor/lib/libactuator_bu64747gwz_camcorder.so:system/vendor/lib/libactuator_bu64747gwz_camcorder.so \
     vendor/sony/msm8974-common/proprietary/vendor/lib/libactuator_bu64747gwz_camera.so:system/vendor/lib/libactuator_bu64747gwz_camera.so \
 >>>>>>> 9fb569d... 8974: Switch to AOSP proprietary files
+=======
+>>>>>>> 472d337... 8974: Move sensor-specific camera blobs to device
     vendor/sony/msm8974-common/proprietary/vendor/lib/libadiertac.so:system/vendor/lib/libadiertac.so \
     vendor/sony/msm8974-common/proprietary/vendor/lib/libadreno_utils.so:system/vendor/lib/libadreno_utils.so \
     vendor/sony/msm8974-common/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
@@ -83,6 +86,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/msm8974-common/proprietary/vendor/lib/libc2d30-a3xx.so:system/vendor/lib/libc2d30-a3xx.so \
     vendor/sony/msm8974-common/proprietary/vendor/lib/libc2d30-a4xx.so:system/vendor/lib/libc2d30-a4xx.so \
     vendor/sony/msm8974-common/proprietary/vendor/lib/libchromaflash.so:system/vendor/lib/libchromaflash.so \
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
     vendor/sony/msm8974-common/proprietary/vendor/lib/libchromatix_imx132_common.so:system/vendor/lib/libchromatix_imx132_common.so \
@@ -168,6 +172,8 @@ PRODUCT_COPY_FILES += \
     vendor/sony/msm8974-common/proprietary/vendor/lib/libchromatix_imx300_video_4k.so:system/vendor/lib/libchromatix_imx300_video_4k.so \
     vendor/sony/msm8974-common/proprietary/vendor/lib/libchromatix_imx300_video_hdr.so:system/vendor/lib/libchromatix_imx300_video_hdr.so \
 >>>>>>> 9fb569d... 8974: Switch to AOSP proprietary files
+=======
+>>>>>>> 472d337... 8974: Move sensor-specific camera blobs to device
     vendor/sony/msm8974-common/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/sony/msm8974-common/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/sony/msm8974-common/proprietary/vendor/lib/libdrmfs.so:system/vendor/lib/libdrmfs.so \
@@ -208,6 +214,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/msm8974-common/proprietary/vendor/lib/libmmcamera_hdr_gb_lib.so:system/vendor/lib/libmmcamera_hdr_gb_lib.so \
     vendor/sony/msm8974-common/proprietary/vendor/lib/libmmcamera_imglib.so:system/vendor/lib/libmmcamera_imglib.so \
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     vendor/sony/msm8974-common/proprietary/vendor/lib/libmmcamera_imx132.so:system/vendor/lib/libmmcamera_imx132.so \
     vendor/sony/msm8974-common/proprietary/vendor/lib/libmmcamera_imx134.so:system/vendor/lib/libmmcamera_imx134.so \
@@ -215,6 +222,8 @@ PRODUCT_COPY_FILES += \
     vendor/sony/msm8974-common/proprietary/vendor/lib/libmmcamera_imx241.so:system/vendor/lib/libmmcamera_imx241.so \
     vendor/sony/msm8974-common/proprietary/vendor/lib/libmmcamera_imx300.so:system/vendor/lib/libmmcamera_imx300.so \
 >>>>>>> 9fb569d... 8974: Switch to AOSP proprietary files
+=======
+>>>>>>> 472d337... 8974: Move sensor-specific camera blobs to device
     vendor/sony/msm8974-common/proprietary/vendor/lib/libmmcamera_isp_abf40.so:system/vendor/lib/libmmcamera_isp_abf40.so \
     vendor/sony/msm8974-common/proprietary/vendor/lib/libmmcamera_isp_bcc40.so:system/vendor/lib/libmmcamera_isp_bcc40.so \
     vendor/sony/msm8974-common/proprietary/vendor/lib/libmmcamera_isp_be_stats44.so:system/vendor/lib/libmmcamera_isp_be_stats44.so \
