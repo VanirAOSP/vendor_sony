@@ -54,10 +54,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/honami/proprietary/etc/firmware/touch_module_id_0x5e.img:system/etc/firmware/touch_module_id_0x5e.img \
     vendor/sony/honami/proprietary/etc/firmware/touch_module_id_0x5f.img:system/etc/firmware/touch_module_id_0x5f.img \
     vendor/sony/honami/proprietary/usr/idc/clearpad.idc:system/usr/idc/clearpad.idc \
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 472d337... 8974: Move sensor-specific camera blobs to device
     vendor/sony/honami/proprietary/usr/idc/clearpad_pen.idc:system/usr/idc/clearpad_pen.idc \
     vendor/sony/honami/proprietary/vendor/lib/libactuator_bu64296gwx.so:system/vendor/lib/libactuator_bu64296gwx.so \
     vendor/sony/honami/proprietary/vendor/lib/libactuator_bu64296gwx_camcorder.so:system/vendor/lib/libactuator_bu64296gwx_camcorder.so \
@@ -96,9 +92,3 @@ PRODUCT_COPY_FILES += \
     vendor/sony/honami/proprietary/vendor/lib/libchromatix_imx200_video_hdr.so:system/vendor/lib/libchromatix_imx200_video_hdr.so \
     vendor/sony/honami/proprietary/vendor/lib/libmmcamera_imx132.so:system/vendor/lib/libmmcamera_imx132.so \
     vendor/sony/honami/proprietary/vendor/lib/libmmcamera_imx200.so:system/vendor/lib/libmmcamera_imx200.so
-<<<<<<< HEAD
-=======
-    vendor/sony/honami/proprietary/usr/idc/clearpad_pen.idc:system/usr/idc/clearpad_pen.idc
->>>>>>> 9fb569d... 8974: Switch to AOSP proprietary files
-=======
->>>>>>> 472d337... 8974: Move sensor-specific camera blobs to device

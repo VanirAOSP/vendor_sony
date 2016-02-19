@@ -47,10 +47,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/togari/proprietary/etc/firmware/touch_module_id_0x44.img:system/etc/firmware/touch_module_id_0x44.img \
     vendor/sony/togari/proprietary/usr/idc/clearpad.idc:system/usr/idc/clearpad.idc \
     vendor/sony/togari/proprietary/usr/idc/max1187x_pen_0.idc:system/usr/idc/max1187x_pen_0.idc \
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 472d337... 8974: Move sensor-specific camera blobs to device
     vendor/sony/togari/proprietary/usr/idc/max1187x_touchscreen_0.idc:system/usr/idc/max1187x_touchscreen_0.idc \
     vendor/sony/togari/proprietary/vendor/lib/libactuator_bu64291gwz.so:system/vendor/lib/libactuator_bu64291gwz.so \
     vendor/sony/togari/proprietary/vendor/lib/libactuator_bu64291gwz_camcorder.so:system/vendor/lib/libactuator_bu64291gwz_camcorder.so \
@@ -85,9 +81,3 @@ PRODUCT_COPY_FILES += \
     vendor/sony/togari/proprietary/vendor/lib/libchromatix_imx134_video_hd.so:system/vendor/lib/libchromatix_imx134_video_hd.so \
     vendor/sony/togari/proprietary/vendor/lib/libmmcamera_imx132.so:system/vendor/lib/libmmcamera_imx132.so \
     vendor/sony/togari/proprietary/vendor/lib/libmmcamera_imx134.so:system/vendor/lib/libmmcamera_imx134.so
-<<<<<<< HEAD
-=======
-    vendor/sony/togari/proprietary/usr/idc/max1187x_touchscreen_0.idc:system/usr/idc/max1187x_touchscreen_0.idc
->>>>>>> 9fb569d... 8974: Switch to AOSP proprietary files
-=======
->>>>>>> 472d337... 8974: Move sensor-specific camera blobs to device
